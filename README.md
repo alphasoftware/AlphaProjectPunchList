@@ -1,6 +1,6 @@
 # ProjectPunchList App
 
-```**An example mobile app built with Alpha Anywhere.**``` 
+**An Advanced Example PhoneGap App Built With Alpha Anywhere.** 
 
 All construction projects use punch lists to close out projects. A punch list is a list of items that need to be completed or resolved before the project can be considered complete and the final bill submitted for payment.
 
@@ -29,6 +29,10 @@ The Alpha Project Punch List App utilizes a MySQL database on the back-end and f
 ## Prerequisite Experience
 
 This component uses some advanced techniques and it is assumed that you are an intermediate to advanced Alpha Anywhere developer. You should be very familiar with building PhoneGap apps with Alpha Anywhere before diving into this component. 
+
+## Minimum Alpha Anywhere Build Required
+
+* 4485
 
 ## Installation and Setup
 
