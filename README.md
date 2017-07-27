@@ -30,11 +30,11 @@ The Alpha Project Punch List App utilizes a MySQL database on the back-end and f
 
 This component uses some advanced techniques and it is assumed that you are an intermediate to advanced Alpha Anywhere developer. You should be very familiar with building PhoneGap apps with Alpha Anywhere before diving into this component. 
 
-## Minimum Alpha Anywhere Build Required
-
-* 4485
-
 ## Installation and Setup
+
+### Minimum Alpha Anywhere Build Required
+
+* Build 4485
 
 This app requires a running instance of MySQL. The included projectdb.sql file is used to create the database and populate the tables with some sample data. The projectdb.sql file was created with Navicat.
 
