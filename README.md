@@ -81,6 +81,8 @@ The required PhoneGap plugin list includes:
 * Toast
 * Whitelist
 
+Make sure to publish the component to your application server prior to testing. All ajax callbacks require access to the app server and the published component.
+
 
 
 
