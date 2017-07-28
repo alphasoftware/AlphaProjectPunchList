@@ -57,9 +57,9 @@ All media files (photos and audio recordings) are uploaded to an S3 bucket so yo
 
 You will also need to setup the correct CORS policy for the S3 bucket. See the Alpha Anywhere release notes below for information on S3 file uploads and CORS (from within your browser, search (CTRL F) for "File Upload - Amazon S3" and "CORS").
 
-**[Alpha Anywhere V12 Release Notes]**(https://www.alphasoftware.com/documentation/pages/ReleaseNotes/ReleaseNotes.Html)
+[Alpha Anywhere V12 Release Notes](https://www.alphasoftware.com/documentation/pages/ReleaseNotes/ReleaseNotes.Html)
 
-## PhoneGap Plugins Required
+### PhoneGap Plugins Required
 
 To run this app you will need to build a PhoneGap app with the Alpha Anywhere PhoneGap App Builder. Android and iOS devices are supported. 
 
