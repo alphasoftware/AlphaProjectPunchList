@@ -2,8 +2,9 @@
 
 **An Advanced Example PhoneGap App Built With Alpha Anywhere.** 
 
-## App Overview Video
-[Punch list app overview video](https://youtu.be/xh2aoR-UFzg)
+## Related Videos
+[Punch List App Overview Video](https://youtu.be/xh2aoR-UFzg)
+[Technical Overview Video #1, covers database and component structure, app initialization](https://youtu.be/l3CJzUXTSxc)
 
 All construction projects use punch lists to close out projects. A punch list is a list of items that need to be completed or resolved before the project can be considered complete and the final bill submitted for payment.
 
