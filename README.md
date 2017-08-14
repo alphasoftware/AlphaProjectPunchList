@@ -5,7 +5,7 @@
 ## Related Videos
 
 * [Punch List App Overview Video](https://youtu.be/xh2aoR-UFzg)
-* [Technical Overview Video #1](https://youtu.be/l3CJzUXTSxc
+* [Technical Overview Video #1](https://youtu.be/l3CJzUXTSxc)
 
 All construction projects use punch lists to close out projects. A punch list is a list of items that need to be completed or resolved before the project can be considered complete and the final bill submitted for payment.
 
