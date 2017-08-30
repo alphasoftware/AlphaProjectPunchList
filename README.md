@@ -39,7 +39,7 @@ This component uses some advanced techniques and it is assumed that you are an i
 
 ### Minimum Alpha Anywhere Build Required
 
-* Build 4485
+* Build 4554
 
 This app requires a running instance of MySQL. The included projectdb.sql file is used to create the database and populate the tables with some sample data. The projectdb.sql file was created with Navicat.
 
