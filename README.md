@@ -8,6 +8,7 @@
 * [Technical Overview Video #1](https://youtu.be/l3CJzUXTSxc)
 * [Technical Overview Video #2, Control Bars](https://youtu.be/9o_3VONGrVc)
 * [Technical Overview Video #3, Editors and Form View Controls](https://youtu.be/t7ekCu9tVPM)
+* [Technical Overview Video #4, Media Controls](https://youtu.be/9OwEq5koD_8)
 
 All construction projects use punch lists to close out projects. A punch list is a list of items that need to be completed or resolved before the project can be considered complete and the final bill submitted for payment.
 
